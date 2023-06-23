@@ -1,0 +1,30 @@
+Author: Letrell Hodge
+Date 2-15-23
+filename code1-2.html
+----->
+<meta chareet="utf-8>"
+<title>coding challenge 1-2</title>
+</head>
+<body>
+<h1>Revelation</h1>
+<h2>by Robert Frost
+<p>We make ourselves a place apart <br/>
+&nbspnbspnbspnbsp Behind light words that tease 
+But oh the agitated heart
+&nbspnbspnbspnbsp Till someone find us really out 
+
+<p/>
+<p> 'Tis pity if the case requre 
+&nbspnbspnbspnbsp (or so we say) that in the end
+we speak the literal to inspire
+&nbspnbspnbspnbsp the understanding of a friend 
+</p>
+<p> But so with all from babes that play  <br/>
+&nbspnbspnbspnbsp At hide-and-seek to god afar
+So all who hide too well away
+&nbspnbspnbspnbsp Must speak and tell us there they
+</p>
+<nr/>
+<footer from <cite> A Boy's will <cite>
+<body>
+<html>
